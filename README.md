@@ -7,3 +7,5 @@ Confidential information is not displayed. Images are custom.
 Please download the executable in https://github.com/alpaddesai/BenefitsOfLivingAbroad/releases
 
 ![image](AdvantagesofLivingAbroad.png)
+
+Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea
