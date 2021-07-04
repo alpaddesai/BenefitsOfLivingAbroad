@@ -11,4 +11,7 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Family Law
 ![image](FamilyLaw.jpg)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea
