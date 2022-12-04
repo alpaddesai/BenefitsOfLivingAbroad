@@ -16,4 +16,4 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
