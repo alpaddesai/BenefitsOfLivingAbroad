@@ -8,6 +8,9 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 
 ![image](AdvantagesofLivingAbroad.png)
 
+## Crossing boundaries - Religion
+![image](Religion.jpg)
+
 ## Family Law
 ![image](FamilyLaw.jpg)
 
