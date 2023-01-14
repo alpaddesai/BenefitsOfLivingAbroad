@@ -12,7 +12,7 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ![image](Religion.jpg)
 
 ## Airports Growing up
-![image](AirportsGrowingUp.jpg)
+![image](ChildHoodAirportsGrowingUp.jpg)
 
 ## Living abroad
 ![image](ChildhoodactivitiesinAmerica.jpg)
