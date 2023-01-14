@@ -32,6 +32,12 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
 
+## Movies
+![image](Movies.JPG)
+
+## Music
+![image](Music.JPG)
+
 ## Family Law
 ![image](FamilyLaw.jpg)
 
