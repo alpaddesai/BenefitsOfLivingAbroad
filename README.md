@@ -14,6 +14,9 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Living abroad
 ![image](MyChildHoodActivitiesInAmerica.jpg)
 
+## Activities in New Jersey
+![image](ActivitiesinNewJersey.jpg)
+
 ## Family Law
 ![image](FamilyLaw.jpg)
 
