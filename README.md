@@ -20,6 +20,9 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Living abroad
 ![image](ChildhoodBuildingRelationships.jpg)
 
+## SightSeeing Things to do
+![image](SightSeeingThingsToDo.jpg)
+
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabad.jpg)
 
