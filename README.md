@@ -17,11 +17,11 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Living abroad
 ![image](ChildhoodactivitiesinAmerica.jpg)
 
-## Living abroad
-![image](ChildhoodBuildingRelationships.jpg)
-
 ## SightSeeing Things to do
 ![image](SightSeeingThingsToDo.jpg)
+
+## Living abroad
+![image](ChildhoodBuildingRelationships.jpg)
 
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabad.jpg)
