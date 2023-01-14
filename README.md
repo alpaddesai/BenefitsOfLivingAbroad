@@ -12,7 +12,7 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ![image](Religion.jpg)
 
 ## Living abroad
-![image](MyChildHoodActivitiesInAmerica.jpg)
+![image](ChildhoodactivitiesinAmerica.jpg)
 
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabad.jpg)
