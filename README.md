@@ -29,17 +29,17 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabad.jpg)
 
-## Activities in Ahmedabad
-![image](ActivitiesinAhmedabadFamily.jpg)
-
-## Activities in New Jersey
-![image](ActivitiesinNewJersey.jpg)
-
 ## Movies
 ![image](Movies.JPG)
 
 ## Music
 ![image](Music.JPG)
+
+## Activities in Ahmedabad
+![image](ActivitiesinAhmedabadFamily.jpg)
+
+## Activities in New Jersey
+![image](ActivitiesinNewJersey.jpg)
 
 ## Family Law
 ![image](FamilyLaw.jpg)
