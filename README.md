@@ -23,6 +23,12 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Living abroad
 ![image](ChildhoodBuildingRelationships.jpg)
 
+## Elementary School
+![image](ElementarySchoolsQuizzes.jpg)
+
+## Elementary School
+![image](ElementarySchoolsHomework.jpg)
+
 ## Four Seasons
 ![image](FourSeasonsActivitiesKids.jpg)
 
