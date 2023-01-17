@@ -47,9 +47,6 @@ Please download the executable in https://github.com/alpaddesai/BenefitsOfLiving
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
 
-## Family Law
-![image](FamilyLaw.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
