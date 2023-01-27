@@ -27,6 +27,9 @@ Confidential information is not displayed. Images are custom.
 ## Elementary School
 ![image](ElementarySchoolsHomework.jpg)
 
+## Gujarati Samaj
+![image](GujaratiSamajEvents.jpg)
+
 ## Four Seasons
 ![image](FourSeasonsActivitiesKids.jpg)
 
