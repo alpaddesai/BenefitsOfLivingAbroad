@@ -48,6 +48,9 @@ Confidential information is not displayed. Images are custom.
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabadFamily.jpg)
 
+## Activities in Ahmedabad
+![image](GujaratiSamajEventsAhmedabad.jpg)
+
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
 
