@@ -51,8 +51,14 @@ Confidential information is not displayed. Images are custom.
 ## Activities in Ahmedabad
 ![image](GujaratiSamajEventsAhmedabad.jpg)
 
+## Temples in Gujarat
+![image](TemplesInGujarat.JPG)
+
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
+
+## Activities in Delhi
+![image](TemplesInDelhi.jpg)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
