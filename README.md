@@ -58,7 +58,7 @@ Confidential information is not displayed. Images are custom.
 ![image](ActivitiesinNewJersey.jpg)
 
 ## Activities in Delhi
-![image](TemplesInDelhi.jpg)
+![image](TemplesInDelhi.JPG)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
