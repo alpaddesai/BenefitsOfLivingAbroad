@@ -48,9 +48,6 @@ Confidential information is not displayed. Images are custom.
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabadFamily.jpg)
 
-## Activities in Ahmedabad
-![image](GujaratiSamajEventsAhmedabad.jpg)
-
 ## Temples in Gujarat
 ![image](TemplesInGujarat.JPG)
 
