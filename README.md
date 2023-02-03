@@ -49,7 +49,7 @@ Confidential information is not displayed. Images are custom.
 ![image](ActivitiesinAhmedabadFamily.jpg)
 
 ## Temples and architecture
-![image](HistoricalSites.jpg)
+![image](Historicalsitesantemples.jpg)
 
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
