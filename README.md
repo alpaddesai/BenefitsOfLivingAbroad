@@ -48,8 +48,8 @@ Confidential information is not displayed. Images are custom.
 ## Activities in Ahmedabad
 ![image](ActivitiesinAhmedabadFamily.jpg)
 
-## Temples in Gujarat
-![image](HistoricalSites.JPG)
+## Temples and architecture
+![image](HistoricalSites.jpg)
 
 ## Activities in New Jersey
 ![image](ActivitiesinNewJersey.jpg)
