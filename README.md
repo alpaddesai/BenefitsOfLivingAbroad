@@ -57,6 +57,9 @@ Confidential information is not displayed. Images are custom.
 ## Activities in Delhi
 ![image](TemplesInDelhi.JPG)
 
+## Social Parties
+![image](SocialParties.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
